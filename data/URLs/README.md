@@ -1,2 +1,2 @@
 # Malicious URLs
-Daily list of URL's seen after a successful SSH login. Some days might have no URL's observed. 
+Daily list of URL's seen after a successful SSH login. Excluded days where no URL's were observed. 
