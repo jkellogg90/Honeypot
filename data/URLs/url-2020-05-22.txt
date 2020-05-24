@@ -1,0 +1,6 @@
+http://38.68.46.110/loader.sh
+http://93.114.82.154/gtop.sh
+http://98.159.99.252/53
+http://98.159.99.252/8000
+http://98.159.110.2/53
+http://ionage.theworkpc.com
