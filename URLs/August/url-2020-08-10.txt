@@ -1,0 +1,5 @@
+http://46.246.41.29/curl.sh
+http://46.246.41.29/wget.sh
+http://98.159.99.227/23
+http://bpsuck.hldns.ru/curl.sh
+http://bpsuck.hldns.ru/wget.sh
