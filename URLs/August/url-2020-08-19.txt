@@ -1,0 +1,5 @@
+https://www.darius6.com/botu.pl
+http://46.246.41.29/curl.sh
+http://46.246.41.29/wget.sh
+http://98.159.99.34/8080
+http://193.228.91.110/bot.sh
