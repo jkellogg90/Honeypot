@@ -1,0 +1,4 @@
+http://45.95.168.60/Pemex.sh
+http://46.246.41.29/curl.sh
+http://46.246.41.29/wget.sh
+http://193.228.91.105/bins/exploit.x86
