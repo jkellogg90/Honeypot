@@ -1,0 +1,6 @@
+http://45.145.185.94/uDvrLib.sh
+http://98.159.99.250/8000
+http://98.159.110.232/3306
+http://194.87.139.127/Binarys/nuclear.x86
+http://194.87.139.127/bins/paraiso.x86
+http://194.87.139.127/sensi.sh
