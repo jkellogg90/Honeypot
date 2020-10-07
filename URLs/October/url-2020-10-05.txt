@@ -1,0 +1,3 @@
+http://45.145.185.94/uDvrLib.sh
+http://45.148.10.186/s.sh
+http://antiq.ucoz.net/libssl3.so.2
