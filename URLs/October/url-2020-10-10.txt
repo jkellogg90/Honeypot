@@ -1,0 +1,5 @@
+http://27.111.44.72/authorized_keys
+http://45.14.224.48/Synapsebins.sh
+http://45.148.10.186/s.sh
+http://tung-shu.cf/o
+http://tung-shu.cf/x
