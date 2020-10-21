@@ -1,0 +1,15 @@
+http://45.153.203.197/.arm
+http://45.153.203.197/.ppc
+http://45.153.203.197/bot.pl
+http://45.153.203.197/nigga
+http://45.153.203.197/nigga.arm
+http://45.153.203.197/nigga.arm5
+http://45.153.203.197/nigga.arm6
+http://45.153.203.197/nigga.arm7
+http://45.153.203.197/nigga.m68k
+http://45.153.203.197/nigga.mips
+http://45.153.203.197/nigga.ppc
+http://45.153.203.197/nigga.sh4
+http://45.153.203.197/nigga.x32
+http://45.153.203.197/nigga.x86
+http://98.159.99.78/23
