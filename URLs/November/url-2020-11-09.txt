@@ -1,0 +1,2 @@
+http://23.95.215.12/bins/Mercury.x86
+http://idip.do.am/ircd.pdf
