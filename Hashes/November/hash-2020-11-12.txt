@@ -1,0 +1,4 @@
+a9b45802a06bc80bbd7c7decfe656883e686ff3bb2d7642c719dca0b37ede189	#Virustotal Score: 0
+80db66be95e5aec2119b032ee72d32107dac8511e21f34070fa8dfa2cd501326	#Virustotal Score: 12
+ad1fbd3674ec75e714c93a6502818ae4cfe80e6ee7df0c1a5c607399f3ba1caa	#Virustotal Score: 12
+5654c9d5f9b1d003dfd8fedebccdf7b26984a52022a5f7fe92c837a20de2b1b9	#Virustotal Score: 6
