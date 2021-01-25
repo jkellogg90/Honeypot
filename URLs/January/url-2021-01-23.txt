@@ -1,0 +1,2 @@
+http://185.239.242.48/akame.mips
+http://185.239.242.48/bins/akame.mips
