@@ -1,0 +1,4 @@
+http://71.127.148.69/.x/1sh
+http://71.127.148.69/.x/2sh
+http://71.127.148.69/.x/3sh
+http://ddns.cyberium.cc/script/ssh
